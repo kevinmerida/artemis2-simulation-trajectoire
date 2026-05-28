@@ -16,6 +16,8 @@ Après simulation numérique, on constate que le véhicule Orion sans moyen de p
 
 ![](images/traj1.png)
 
+![](images/distance1.png)
+
 
 ### Simulation juste après la correction de trajectoire à proximité de la Lune
 
@@ -23,11 +25,19 @@ La date choisie pour fixer les valeurs initiales de position et de vitesse est l
 
 Après simulation numérique, on obtient un bien meilleur suivi de la vraie trajectoire,  avec un écart d'environ **400 km** à la date finale.
 
+![](images/traj2.png)
+
+![](images/distance2.png)
+
 ### Simulation avec ajustement de la vitesse initiale
 
 La date choisie pour fixer les valeurs initiales de position et de vitesse est le **3 avril 2026 à 00h00 UTC**, peu après l'injection trans-lunaire. On ajuste la vraie vitesse initiale du véhicule, de sorte que l'on suive aussi précisément que possible la vraie trajectoire jusqu'à la date finale du **10 avril 2026 à 23h54 UTC**. On réduit ainsi l'écart qui vaut alors **140 km** environ à la date finale.
 
 On constate que le "delta V" qu'il aurait fallu appliquer est de l'ordre de **2,5 mètres par seconde** ! C'est l'ordre de grandeur des différentes corrections qui ont été appliquées durant la mission.
+
+![](images/traj3.png)
+
+![](images/distance3.png)
 
 ### Conclusion
 
