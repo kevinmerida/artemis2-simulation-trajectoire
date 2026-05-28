@@ -32,5 +32,5 @@ Ces différentes situations simulées mettent en évidence le fait que la trajec
 
 ## Le notebook
 
-Il est [ici](notebook/artemis2_simul.ipynb
+Il est [ici](notebook/artemis2_simul.ipynb)
 
