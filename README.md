@@ -30,6 +30,7 @@ On constate que le "delta V" qu'il aurait fallu appliquer est de l'ordre de **2,
 
 Ces différentes situations simulées mettent en évidence le fait que la trajectoire est extrèmement sensible aux conditions initiales, notamment dès le début du transit vers la Lune. Il faut donc des moyens de propulsion pour réaliser des petites corrections ("delta V") tout au long de la mission. Il serait en effet illusoire de n'ajuster la vitesse qu'au début du transit, afin que l'ensemble du trajet s'effectue librement selon une trajectoire préétablie.
 
+## Le notebook
 
-
+Il est [ici](notebook/artemis2_simul.ipynb
 
