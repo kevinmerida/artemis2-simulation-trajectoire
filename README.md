@@ -1,1 +1,1 @@
-# artemis2-simulation-trajectoire
+# **Artemis II** : simulation numérique de la trajectoire
