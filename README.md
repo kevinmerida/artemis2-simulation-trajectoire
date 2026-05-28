@@ -16,6 +16,7 @@ Après simulation numérique, on constate que le véhicule Orion sans moyen de p
 
 ![](images/traj1.png)
 
+
 ### Simulation juste après la correction de trajectoire à proximité de la Lune
 
 La date choisie pour fixer les valeurs initiales de position et de vitesse est le **6 avril 2026 à 03h30 UTC**, au moment où le véhicule s'approche de la Lune avant d'en faire le tour. Une correction a déjà été appliquée sous la forme d'un "delta V" d'environ 3 mètres par seconde.
