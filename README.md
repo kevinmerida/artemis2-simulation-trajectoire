@@ -45,5 +45,5 @@ Ces différentes situations simulées mettent en évidence le fait que la trajec
 
 ## Le notebook
 
-Il est [ici](notebook/artemis2_simul.ipynb) et [sur Google Colab](https://colab.research.google.com/drive/1pYTZHV4btLa5OR1KGsfO7gJypONDzmoD?usp=sharing)
+Il est [ici](notebook/artemis2_simul.ipynb) et [sur Google Colab](https://colab.research.google.com/drive/1pYTZHV4btLa5OR1KGsfO7gJypONDzmoD?usp=sharing).
 
